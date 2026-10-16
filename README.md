@@ -114,3 +114,4 @@ Matchmaking, rooms, timers, reconnects, ratings, stats, achievements, tournament
 - **Arcade fairness**: arcade games send *intent* (aim point, hold time, swipe) and the server applies its own randomness and scoring, so nobody can submit a score — but a scripted client could aim more precisely than a thumb. Add plausibility flags (e.g. perfect-release streaks) before running ranked arcade seasons with real stakes.
 - **Paintball** is listed as coming soon. Next: double elimination / Swiss formats, spectator chat toggle, passkeys and optional email for recovery, push notifications.
 - The dictionary is the MIT-licensed `an-array-of-english-words` list (~275k words). Puzzle answers come from hand-picked everyday words in `src/server/words/lists.ts`.
+# gamepact
